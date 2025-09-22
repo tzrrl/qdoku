@@ -30,8 +30,8 @@ Die Gestaltung der Eingewöhnungsphase ist ein wesentlicher Bestandteil der päd
 * Während der Eingewöhnungszeit des jeweiligen Kindes werden regelmäßig Notizen gemacht, die die Eingewöhnungszeit dokumentieren.
 
 ## Ergänzungen
-* <a href="/assets/downloads/Anamnese_Krippe.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Krippe</a>
-* <a href="/assets/downloads/Anamnese_KrippeES.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Krippe in einfacher Sprache</a>
-* <a href="/assets/downloads/Anamnese_Kita.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Regelbereich</a>
-* <a href="/assets/downloads/Anamnese_KitaES.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Regelbereich in einfacher Sprache</a>
-* <a href="/assets/downloads/7.2.1P_AufnahmeEingewöhnung.pdf" target="_blank" rel="noopener noreferrer">Prozessregelung Aufnahme und Eingewöhnung</a>
+<a href="{{ site.baseurl }}/assets/downloads/Anamnese_Krippe.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Krippe</a>
+<a href="{{ site.baseurl }}/assets/downloads/Anamnese_KrippeES.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Krippe in einfacher Sprache</a>
+<a href="{{ site.baseurl }}/assets/downloads/Anamnese_Kita.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Regelbereich</a>
+<a href="{{ site.baseurl }}/assets/downloads/Anamnese_KitaES.pdf" target="_blank" rel="noopener noreferrer">Anamnesebogen Regelbereich in einfacher Sprache</a>
+<a href="{{ site.baseurl }}/assets/downloads/7.2.1P_AufnahmeEingewöhnung.pdf" target="_blank" rel="noopener noreferrer">Prozessregelung Aufnahme und Eingewöhnung</a>
