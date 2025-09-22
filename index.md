@@ -1,35 +1,45 @@
 ---
-title: Home
 layout: home
+title: QDoku
+nav_order: 1
+has_children: true
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Willkommen im Qualitätsmanagement Handbuch der K.I.T.A gGmbH
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Herzlich willkommen auf der digitalen Plattform unseres Qualitätsmanagement (QM) Systems! Dieses Handbuch wurde entwickelt, um Ihnen einen einfachen und schnellen Zugang zu allen relevanten Informationen, Prozessen, Anweisungen und Dokumenten unseres Qualitätsmanagements zu ermöglichen.
 
-More specifically, the created site:
+<div style="text-align: center;">
+    <img src="{{ '/assets/images/kita.png' | relative_url }}" alt="Logo der K.I.T.A. gGmbH" width="150" style="margin-right: 40px;">
+    <img src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="Zusätzliches Logo" width="150">
+</div>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Unser Ziel ist es, die pädagogische Qualität und die sprachliche Bildung in unseren Kindertagesstätten kontinuierlich zu sichern und weiterzuentwickeln. Dieses Handbuch ist dabei ein zentrales Werkzeug für alle Mitarbeiterinnen und Mitarbeiter, um Transparenz zu schaffen und die tägliche Arbeit zu unterstützen.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## So nutzen Sie dieses Handbuch
 
-To get started with creating a site, simply:
+Dieses digitale Handbuch ist intuitiv gestaltet, damit Sie schnell finden, was Sie suchen. Hier sind die wichtigsten Funktionen:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### 1. Navigation
+Auf der linken Seite finden Sie die **Navigation**, die alle Bereiche unseres QM-Systems übersichtlich gliedert. Klicken Sie auf die Hauptkategorien um die Unterpunkte zu erweitern und zu den gewünschten Dokumenten zu gelangen.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### 2. Suchfunktion
+Die **Suchfunktion** ist Ihr schnellster Weg zu spezifischen Inhalten.
+* Klicken Sie auf das **Lupen-Symbol** in der oberen Mitte.
+* Geben Sie einfach Stichworte ein (z.B. "Prozessmanagement", "Sprach-Kita", "Formular"). Die Suchergebnisse werden Ihnen sofort angezeigt und die relevanten Stellen im Text hervorgehoben.
 
-----
+### 3. Dokumente und Downloads
+Viele Dokumente sind direkt als Webseite lesbar und öffnen sich in einem neuen Fenster.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### 4. Anpassungsfähigkeit
+Dieses Handbuch ist für alle Geräte optimiert. Egal ob Sie es auf einem Desktop-PC, Laptop, Tablet oder Smartphone nutzen – die Darstellung passt sich automatisch an, um Ihnen stets die beste Lesbarkeit zu bieten.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+---
+
+## Ihr Beitrag ist wichtig!
+
+Dieses QM-Handbuch lebt von der Praxis. Sollten Sie Fragen, Anregungen oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, sich an Ihre Leitung oder den QM-Beauftragten zu wenden. Ihr Feedback hilft uns, die Qualität unserer Arbeit und dieses Handbuchs stetig zu verbessern.
+
+Viel Erfolg und eine gute Orientierung!
