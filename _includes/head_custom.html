@@ -1,0 +1,13 @@
+<script type="text/javascript">
+  var password = "qdoku";
+  var authenticated = localStorage.getItem("qdoku_authenticated");
+
+  if (authenticated !== "true") {
+    var pass = prompt('Bitte geben Sie das Passwort ein:', '');
+    if (pass === password) {
+      localStorage.setItem("qdoku_authenticated", "true");
+    } else {
+      window.location.href = "{{ site.baseurl }}/zugriff-verweigert.html";
+    }
+  }
+</script>
