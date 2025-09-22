@@ -1672,433 +1672,440 @@
     
     "relUrl": "/"
   },"239": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "This is a bare-minimum template to create a Jekyll site that uses the Just the Docs theme. You can easily set the created site to be published on GitHub Pages – the README file explains how to do that, along with other details. If Jekyll is installed on your computer, you can also build and preview the created site locally. This lets you test changes before committing them, and avoids waiting for GitHub Pages.1 And you will be able to deploy your local build to a different platform than GitHub Pages. More specifically, the created site: . | uses a gem-based approach, i.e. uses a Gemfile and loads the just-the-docs gem | uses the GitHub Pages / Actions workflow to build and publish the site on GitHub Pages | . Other than that, you’re free to customize sites that you create with this template, however you like. You can easily change the versions of just-the-docs and Jekyll it uses, as well as adding further plugins. Browse our documentation to learn more about how to use this theme. To get started with creating a site, simply: . | click “use this template” to create a GitHub repository | go to Settings &gt; Pages &gt; Build and deployment &gt; Source, and select GitHub Actions | . If you want to maintain your docs in the docs directory of an existing project repo, see Hosting your docs from an existing project repo in the template README. | It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. &#8617; . | . ",
+    "url": "/index1.html",
+    
+    "relUrl": "/index1.html"
+  },"240": {
     "doc": "7.7. Inklusion - Pädagogik der Vielfalt",
     "title": "7.7. Inklusion – Pädagogik der Vielfalt",
     "content": " ",
     "url": "/inklusion.html#77-inklusion--p%C3%A4dagogik-der-vielfalt",
     
     "relUrl": "/inklusion.html#77-inklusion--pädagogik-der-vielfalt"
-  },"240": {
+  },"241": {
     "doc": "7.7. Inklusion - Pädagogik der Vielfalt",
     "title": "Einführung",
     "content": "In evangelischen Kindertageseinrichtungen ist die Förderung des Zusammenlebens von Kindern aus unterschiedlichen Lebenssituationen selbstverständlich. Inklusion ist dabei von Integration zu unterscheiden: Es geht um eine Pädagogik der Vielfalt, die ein erkennbares Merkmal eines gelebten christlichen Menschenbildes ist und sich an den Bedarfslagen aller Kinder orientiert. Es geht um die Realisierung von gemeinsamem Spielen und Lernen sowie um eine möglichst umfassende Teilhabe aller Kinder am Alltag der Tageseinrichtung. ",
     "url": "/inklusion.html#einf%C3%BChrung",
     
     "relUrl": "/inklusion.html#einführung"
-  },"241": {
+  },"242": {
     "doc": "7.7. Inklusion - Pädagogik der Vielfalt",
     "title": "Ziele",
     "content": ". | Die Tageseinrichtung für Kinder setzt auf eine vorurteilsbewusste Bildung und Erziehung und nicht auf eine aussondernde Pädagogik. | Sie orientiert sich am evangelischen Profil und öffnet sich für die verschiedenen Heterogenitätsdimensionen. | Ihr gesamtes Umfeld ist darauf ausgerichtet, dass sich jedes Kind entsprechend seinen individuellen Möglichkeiten entwickeln kann. | Die evangelische Tageseinrichtung für Kinder ist ein Ort der Bildung und Förderung für alle Kinder, ihre Angebote orientieren sich an den unterschiedlichen Bedarfslagen der Kinder und ihrer Familien. | Die Kinder lernen miteinander und voneinander für ihr jetziges und zukünftiges Leben. | Das Gebäude und das Gelände der Tageseinrichtung für Kinder sind frei von Barrieren und behindertengerecht gestaltet. | Die Bildungsangebote der Tageseinrichtung für Kinder regen die Experimentierfreude und Neugierde der Kinder an. | . ",
     "url": "/inklusion.html#ziele",
     
     "relUrl": "/inklusion.html#ziele"
-  },"242": {
+  },"243": {
     "doc": "7.7. Inklusion - Pädagogik der Vielfalt",
     "title": "Qualitätsanforderungen",
     "content": ". | In der pädagogischen Praxis und bei der Auswahl von pädagogischem Material werden die unterschiedlichen Bedürfnisse und Lebenswelten der Kinder und ihren Familien berücksichtigt. | Die verschiedenen Heterogenitätsdimensionen werden beachtet: z.B. Familienform, sozio-ökonomischer Status, Geschlecht, Kultur, Religion, (drohende) Behinderung, Migration, Flucht. Kategorisierungen werden vermieden. | Persönliche, biografische und fachliche Ansichten der pädagogischen Fachkräfte sind im Team reflektiert. Inklusion wird als Teamaufgabe verstanden. | Das Verständnis zu Begriffen wie z.B. Inklusion, Integration, vorurteilsbewusste Bildung und Erziehung, Barrierefreiheit, Teilhabe sowie das Verständnis von Chancen und Grenzen von Integration ist im Team geklärt. | Die Kita nutzt die Zusammenarbeit mit externen Fachdiensten (z.B. SPZ, Therapeut*innen, Frühförderstellen) für eine inklusive Ausrichtung. | Die pädagogischen Fachkräfte sind aufmerksam für Barrieren, die eine Teilhabe erschweren oder verhindern. Sie wirken diesen im Rahmen ihrer Möglichkeiten entgegen. | Die Kita befördert die Grundannahme, dass Verhalten grundsätzlich subjektiv sinnvoll ist. | Die Kindertageseinrichtung ist über die regionale Vereinbarung für die gemeinsame Bildung und Erziehung nach § 1, 2.DVO- KitaG, die der örtliche Träger der Jugendhilfe mit allen anderen Trägern der Kitas entwickelt, informiert und ggf. beteiligt. | Spezielle Maßnahmen, wie Therapien oder Förderungen, ordnen sich dem pädagogischen Alltag unter. | . ",
     "url": "/inklusion.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/inklusion.html#qualitätsanforderungen"
-  },"243": {
+  },"244": {
     "doc": "7.7. Inklusion - Pädagogik der Vielfalt",
     "title": "7.7. Inklusion - Pädagogik der Vielfalt",
     "content": " ",
     "url": "/inklusion.html",
     
     "relUrl": "/inklusion.html"
-  },"244": {
+  },"245": {
     "doc": "4.6. Konzeption",
     "title": "4.6. Konzeption",
     "content": " ",
     "url": "/konzeption.html",
     
     "relUrl": "/konzeption.html"
-  },"245": {
+  },"246": {
     "doc": "4.6. Konzeption",
     "title": "Einführung",
     "content": "Die Konzeption ist in das QM-System eingebunden. Auf Grundlage der Vorgaben des Trägers, des Leitbildes und der lokalen Gegebenheiten beschreibt sie die Rahmenbedingungen der Kindertageseinrichtung sowie einrichtungsspezifische Schwerpunkte und Ziele für die Umsetzung des Bildungs-, Erziehungs- Betreuungsauftrags (nach § 2 NKitaG + NOP). ",
     "url": "/konzeption.html#einf%C3%BChrung",
     
     "relUrl": "/konzeption.html#einführung"
-  },"246": {
+  },"247": {
     "doc": "4.6. Konzeption",
     "title": "Ziele",
     "content": ". | Die Mitarbeiter*innen sind an der Entwicklung bzw. Weiterentwicklung der Konzeption der evangelischen Tageseinrichtung für Kinder beteiligt und nutzen deren Leitlinien als Grundlage für ihre Arbeit. | Die Konzeption beschreibt die Ziele des Bildungs-, Erziehungs- und Betreuungsauftrags und macht die zielkonforme Gestaltung und Organisation der Arbeit transparent. | Die Angebotsstruktur orientiert sich an den Bedarfen der Kinder und Eltern. | Die religiöse Dimension ist im pädagogischen Praxisalltag der Tageseinrichtung für Kinder fest eingebunden. Somit sind die Religionspädagogik und das evangelische Profil durchgängige und integrale Bestandteile aller Bildungs-, Erziehungs- und Betreuungsangebote. | . ",
     "url": "/konzeption.html#ziele",
     
     "relUrl": "/konzeption.html#ziele"
-  },"247": {
+  },"248": {
     "doc": "4.6. Konzeption",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Adressaten der Konzeption sind definiert. | Der Auftrag der Kita ist beschrieben. | Die Konzeption beinhaltet Aussagen: . | zu Rahmenbedingungen und Struktur der Kita (z.B. soziokulturelles Umfeld, Größe, Altersmischung, integrative Gruppen) | zur personellen Ausstattung (z.B. Grund- und Zusatzqualifikation des Personals) | zu bedarfsgerechten Betreuungsangeboten (z.B. Öffnungs- und Schließzeiten, Verpflegung) | zum evangelischen Selbstverständnis | zu Vernetzung und Einbindung in das Gemeinwesen | . | Zu folgenden pädagogischen Aspekten sind Aussagen beschrieben: . | pädagogischer Ansatz (z.B. Reggio, Situationsorientierter Ansatz, Montessori) | pädagogisches Handlungskonzept (z.B. Offene Arbeit, Emmi Pikler, Early-Excellence) | Ziele, Methoden, pädagogische und religionspädagogische Angebote (z.B. Raumgestaltung, Materialausstattung, Tagesablauf, Projektarbeit) | professionelles Verständnis der Rolle der pädagogischen Fachkraft | Integrative, interkulturelle, interreligiöse, geschlechtersensible Arbeit im Sinne einer inklusiven Pädagogik | Kinderschutz | Partizipation der Kinder | Alltagsintegrierte Sprachbildung und -förderung | Eingewöhnung, Übergänge | Beobachtung und Dokumentation | Beziehungsvolle Pflege | . | Die Konzeption beinhaltet weiterhin Aussagen zur: . | Zusammenarbeit mit Eltern | Zusammenarbeit im Team, interne Kommunikation, Fortbildung | Qualitätssicherung und -entwicklung | Öffentlichkeitsarbeit | . | Die Konzeption wird regelmäßig überprüft und ist aktuell. | Der Beirat ist beteiligt (§16 NKitaG). | . ",
     "url": "/konzeption.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/konzeption.html#qualitätsanforderungen"
-  },"248": {
+  },"249": {
     "doc": "4.6. Konzeption",
     "title": "Ergänzungen",
     "content": ". | Konzeption Stand 2023 | . ",
     "url": "/konzeption.html#erg%C3%A4nzungen",
     
     "relUrl": "/konzeption.html#ergänzungen"
-  },"249": {
+  },"250": {
     "doc": "3. Organisation des Qualitätsmanagementsystems",
     "title": "Organisation des Qualitätsmanagementsystems",
     "content": "Das Qualitätsmanagementsystem (QMSK) der K.I.T.A gGmbH ist in Schlüsselprozesse unterteilt, die Aufgabenbereiche und Dienstleistungen beschreiben. Es wird zwischen Führungs-, Kern- und Unterstützungsprozessen unterschieden. Die dokumentierten Informationen dienen dabei als Arbeitsgrundlage und Nachweis. Die folgenden Kapitel beschreiben die einzelnen Prozesse und die dazugehörigen Dokumente. ",
     "url": "/organisationprozess.html#organisation-des-qualit%C3%A4tsmanagementsystems",
     
     "relUrl": "/organisationprozess.html#organisation-des-qualitätsmanagementsystems"
-  },"250": {
+  },"251": {
     "doc": "3. Organisation des Qualitätsmanagementsystems",
     "title": "3. Organisation des Qualitätsmanagementsystems",
     "content": " ",
     "url": "/organisationprozess.html",
     
     "relUrl": "/organisationprozess.html"
-  },"251": {
+  },"252": {
     "doc": "7.6. Partizipation und Beiteiligung",
     "title": "7.6. Partizipation – Beteiligung, Mitbestimmung und Beschwerde von Kindern",
     "content": " ",
     "url": "/partizipation.html#76-partizipation--beteiligung-mitbestimmung-und-beschwerde-von-kindern",
     
     "relUrl": "/partizipation.html#76-partizipation--beteiligung-mitbestimmung-und-beschwerde-von-kindern"
-  },"252": {
+  },"253": {
     "doc": "7.6. Partizipation und Beiteiligung",
     "title": "Einführung",
     "content": "Partizipation ist ein Kinderrecht. In der evangelischen Kindertageseinrichtung ist die Beteiligung, Mitbestimmung und Beschwerde von Kindern eine Selbstverständlichkeit. Für die Umsetzung ist eine entsprechende Haltung der pädagogischen Fachkräfte erforderlich. Bei der Planung und Gestaltung des pädagogischen Alltags sowie der Räumlichkeiten werden entwicklungsspezifische Beteiligungsmöglichkeiten für die Kinder berücksichtigt. Das Erlebnis der aktiven Teilhabe, Mitbestimmung und Mitgestaltung versetzt Kinder in die Lage, Eigenverantwortung zu übernehmen und sich als wichtigen Teil der Gemeinschaft zu erfahren. Auf diese Weise werden demokratische Prinzipien im Alltag der Tageseinrichtung gelebt. Die Möglichkeit, Beschwerden zu äußern, ist präventiver Kinderschutz und ein wesentliches Element von Partizipation. ",
     "url": "/partizipation.html#einf%C3%BChrung",
     
     "relUrl": "/partizipation.html#einführung"
-  },"253": {
+  },"254": {
     "doc": "7.6. Partizipation und Beiteiligung",
     "title": "Ziele",
     "content": ". | Die Bedürfnisse, Wünsche und Beschwerden der Kinder werden ernst genommen. | Die Kinder können innerhalb der Rahmenbedingungen des Kitaalltags Selbstwirksamkeit erleben. | Sie lernen, ihre Interessen selbst zu vertreten und die Meinungen anderer zu respektieren. | Die Kinder kennen ihre Rechte und nutzen ihre Möglichkeiten zur Mitgestaltung, Mitbestimmung und Beschwerde. | Die Kinder lernen ihre Rechte kennen und werden dabei unterstützt, ihre Möglichkeiten zur Mitgestaltung, Mitbestimmung und Beschwerde ihrer Entwicklung entsprechend zu nutzen. | Die verbalen und nonverbalen Signale der Kinder werden wahrgenommen und es wird in angemessener Weise darauf reagiert. | Die Mitarbeiter*innen gehen verantwortungsvoll mit ihren Einflussmöglichkeiten um. | . ",
     "url": "/partizipation.html#ziele",
     
     "relUrl": "/partizipation.html#ziele"
-  },"254": {
+  },"255": {
     "doc": "7.6. Partizipation und Beiteiligung",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Kinder sind situativ bei der Planung und Gestaltung des Alltags, der Räume und des Außengeländes sowie beim Entwickeln von Projekten beteiligt. Dabei werden die individuellen und entwicklungsspezifischen Interessen und Bedürfnisse der Kinder beachtet. | Die pädagogischen Fachkräfte schaffen in der Einrichtung Strukturen, in denen Kinder ihre Rechte wahrnehmen können. | Gemeinsam mit den Kindern werden mögliche Regelungen für ein Miteinander entwickelt. | Es gibt Rückmeldemechanismen für Kinder, Eltern und Mitarbeiter. | Die Mitarbeiter*innen sind für verbale und nonverbale Äußerungen kindlicher Rückmeldungen sensibilisiert. | Die Mitarbeiter, Eltern und Kinder werden für Übergriffe und Grenzverletzungen sensibilisiert. | Die pädagogischen Fachkräfte sorgen für Transparenz. | Die Mitarbeiter*innen reflektieren ihre Rolle im Hinblick auf ihre partizipatorische Haltung. | Bestehende Formen der Partizipation werden regelmäßig überprüft. Sie werden bei Bedarf weiterentwickelt. | . ",
     "url": "/partizipation.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/partizipation.html#qualitätsanforderungen"
-  },"255": {
+  },"256": {
     "doc": "7.6. Partizipation und Beiteiligung",
     "title": "7.6. Partizipation und Beiteiligung",
     "content": " ",
     "url": "/partizipation.html",
     
     "relUrl": "/partizipation.html"
-  },"256": {
+  },"257": {
     "doc": "7.11. Pflege",
     "title": "7.11. Pflege",
     "content": " ",
     "url": "/pflege.html",
     
     "relUrl": "/pflege.html"
-  },"257": {
+  },"258": {
     "doc": "7.11. Pflege",
     "title": "Einführung",
     "content": "Beziehungsvolle Pflege ist ein wichtiger Bestandteil der pädagogischen Arbeit in evangelischen Kindertageseinrichtungen, besonders in Krippengruppen und mit jüngeren Kindern. Sie dienen der Versorgung der körperlichen Grundbedürfnisse wie An- und Ausziehen, Essen und Trinken, Händewaschen und Körperpflege, Schlafen und der Sauberkeitserziehung. Dabei sind sie Teil der Beziehungsarbeit und gehören besonders bei jüngeren Kindern zur Entwicklungsbegleitung durch die pädagogischen Fachkräfte. Beziehungsvolle Pflegesituationen unterstützen das Kind in der Entwicklung von Selbstständigkeit und in der Wahrnehmung von Selbstwirksamkeit. Sie stärken das Selbstbewusstsein und Selbstwertgefühl des Kindes. ",
     "url": "/pflege.html#einf%C3%BChrung",
     
     "relUrl": "/pflege.html#einführung"
-  },"258": {
+  },"259": {
     "doc": "7.11. Pflege",
     "title": "Ziele",
     "content": ". | Die Pflege findet in einer geschützten, sicheren Atmosphäre statt und wird vom Kind als angenehm und wohltuend empfunden. | Das Kind hat ein positives Bild seines Körpers und seiner Bedürfnisse und entwickelt einen selbständigen Umgang damit. | Für die Mitarbeiter*innen sind alle Pflegesituationen integraler Bestandteil der pädagogischen Arbeit. | In Pflegesituationen begegnen Mitarbeiter*innen dem Kind mit Respekt, Achtsamkeit, Sensibilität und Wertschätzung. | Das Kind erlebt sich durch die behutsame Begegnung und die Freude am Kontakt mit den pädagogischen Fachkräften als liebenswerter Kommunikationspartner, als willkommen und kompetent. | Das Kind erfährt die Pflegesituationen als sinnliches, angenehmes Erlebnis. Es hat ein positives Bild seines Körpers und seiner Bedürfnisse und entwickelt einen selbstständigen Umgang damit. | . ",
     "url": "/pflege.html#ziele",
     
     "relUrl": "/pflege.html#ziele"
-  },"259": {
+  },"260": {
     "doc": "7.11. Pflege",
     "title": "Qualitätsanforderungen",
     "content": ". | Pflegerische Arbeiten werden von der Fachkraft ausgeführt, die eine Beziehung zu dem betreffenden Kind aufgebaut hat. | In Pflegesituationen wird besonders auf die Signale des Kindes geachtet, so dass es selbst aktiv beteiligt ist. | Die Grenzen der körperlichen Nähe bestimmt das Kind. | Die zeitliche Gestaltung von pflegerischen 1:1-Situationen beachtet deren hohe Priorität für die Entwicklungsbegleitung des Kindes. | Die räumlichen Bedingungen sind so gestaltet, dass Störungen möglichst verhindert werden. | Hygienische Anforderungen werden erfüllt. | . ",
     "url": "/pflege.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/pflege.html#qualitätsanforderungen"
-  },"260": {
+  },"261": {
     "doc": "7.1. Planung der Pädagogischen Arbeit",
     "title": "7.1. Planung der Pädagogischen Arbeit",
     "content": " ",
     "url": "/planung-paedagogische-arbeit.html",
     
     "relUrl": "/planung-paedagogische-arbeit.html"
-  },"261": {
+  },"262": {
     "doc": "7.1. Planung der Pädagogischen Arbeit",
     "title": "Einführung",
     "content": "Die Planung der pädagogischen Arbeit orientiert sich an den Grundsätzen und Schwerpunkten, die in der Konzeption und/oder im Qualitätsmanagementhandbuch der Kindertageseinrichtung beschrieben sind. Sie wahrt die Balance zwischen kindlicher Selbstbildung sowie dem Bedürfnis nach Orientierung, Anleitung und verlässlicher Struktur. ",
     "url": "/planung-paedagogische-arbeit.html#einf%C3%BChrung",
     
     "relUrl": "/planung-paedagogische-arbeit.html#einführung"
-  },"262": {
+  },"263": {
     "doc": "7.1. Planung der Pädagogischen Arbeit",
     "title": "Ziele",
     "content": "Die Planung der pädagogischen Arbeit ist: . | zielgerichtet und fachlich begründet, | orientiert an den verfügbaren personellen und strukturellen Ressourcen der Einrichtung, | geleitet durch die handlungsleitenden Prinzipien aus der Konzeption, dem Qualitätsmanagementhandbuch sowie dem „Orientierungsplan für Bildung und Erziehung im Elementarbereich niedersächsischer Tageseinrichtungen für Kinder“. | . ",
     "url": "/planung-paedagogische-arbeit.html#ziele",
     
     "relUrl": "/planung-paedagogische-arbeit.html#ziele"
-  },"263": {
+  },"264": {
     "doc": "7.1. Planung der Pädagogischen Arbeit",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Planung der pädagogischen Arbeit erfolgt auf der Grundlage der Konzeption, des Leitbildes, der Qualitätsziele, der pädagogischen Schlüsselprozesse sowie weiterer übergeordneter Vorgaben. Dadurch ist sichergestellt, dass sie zielgerichtet und fachlich fundiert ist. | Kinder werden grundsätzlich an relevanten Planungs- und Entscheidungsprozessen beteiligt. Fachkräfte schaffen hierfür geeignete Anlässe, um Entscheidungsfähigkeit, Mitgestaltung und Verantwortungsübernahme zu fördern. | Die Ebenen Kognition, Motorik, Emotion und soziales Miteinander sind grundlegende Bestandteile aller Bildungsprozesse und werden in der Planung berücksichtigt. | Die pädagogische Planung orientiert sich an den Themen und Bedürfnissen des einzelnen Kindes sowie der Gesamtgruppe. Dabei werden Zeitstrukturen gewählt, die dem kindlichen Zeitempfinden entsprechen. | Sie umfasst sowohl langfristige Zeiträume (z. B. Jahresplanung) als auch konkrete Projekte und Angebote, die gemeinsam mit den Kindern entwickelt, umgesetzt und dokumentiert werden. | Weiterentwicklungen bestehender Projektpläne sind ausdrücklich erwünscht und werden als Ausdruck gelebter Partizipation gewertet. | Verfügbare Ressourcen wie Personal, Zeit, Raum und Material werden realistisch eingeschätzt und in die Planung einbezogen. | . ",
     "url": "/planung-paedagogische-arbeit.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/planung-paedagogische-arbeit.html#qualitätsanforderungen"
-  },"264": {
+  },"265": {
     "doc": "7.1. Planung der Pädagogischen Arbeit",
     "title": "Ergänzungen",
     "content": ". | Q-Kreis zur Pädagogischen Planung | Pädagogische Planung | . ",
     "url": "/planung-paedagogische-arbeit.html#erg%C3%A4nzungen",
     
     "relUrl": "/planung-paedagogische-arbeit.html#ergänzungen"
-  },"265": {
+  },"266": {
     "doc": "7.8. Räumliche Gestaltung",
     "title": "7.8. Räumliche Gestaltung",
     "content": " ",
     "url": "/raum.html",
     
     "relUrl": "/raum.html"
-  },"266": {
+  },"267": {
     "doc": "7.8. Räumliche Gestaltung",
     "title": "Einführung",
     "content": "Der Alltag in der Kindertageseinrichtung findet in kindgerecht gestalteten Innenräumen und Außenbereichen statt. Die Gestaltung der Räume beeinflusst nicht nur die Aktivitäten und das Verhalten der Kinder, sondern ist von wesentlicher Bedeutung für ihr Wohlbefinden. Auch die Qualität der Arbeit mit den Kindern hängt in hohem Maße von der Raumgestaltung ab. Diese orientiert sich maßgeblich an den konzeptionellen Zielen für die pädagogische Arbeit in der Tageseinrichtung und trägt den Bedürfnissen der Kinder, Eltern und Mitarbeiter*innen Rechnung. Anforderungen zur Gesundheit der Mitarbeiter*innen sind dabei zu beachten. ",
     "url": "/raum.html#einf%C3%BChrung",
     
     "relUrl": "/raum.html#einführung"
-  },"267": {
+  },"268": {
     "doc": "7.8. Räumliche Gestaltung",
     "title": "Ziele",
     "content": ". | Die Gestaltung der Innenräume und des Außenbereichs wird den konzeptionellen Anforderungen der Tageseinrichtung für Kinder gerecht. | Die Kinder fühlen sich in ihrem Gruppenraum, in den Funktionsräumen und in den Außenbereichen der Tageseinrichtung wohl und sicher. | Die Raumgestaltung bietet den Kindern vielfältige Anreize für unterschiedliche Wahrnehmungen und Erfahrungen sowie alternative Möglichkeiten zur Bewegung und Aktivität, Stille und Entspannung. | Die Tageseinrichtung für Kinder bietet Eltern Rückzugsmöglichkeiten, um sich informieren und Gespräche führen zu können. | . ",
     "url": "/raum.html#ziele",
     
     "relUrl": "/raum.html#ziele"
-  },"268": {
+  },"269": {
     "doc": "7.8. Räumliche Gestaltung",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Räume für die Kinder und das Außengelände sind so gestaltet, dass die Kinder in ihrer Entwicklung und in den unterschiedlichen Lernbereichen angeregt und unterstützt werden. | Die Kinder haben die Möglichkeit, die Räume mit- und umzugestalten. | Räume und Außengelände nutzen die Kinder ihrer Entwicklung angemessen weitgehend selbständig. | Die Räume ermöglichen den Kindern soziale Interaktionen und Kommunikation in unterschiedlichen Konstellationen sowie Rückzug, Ruhe und Besinnung. | Aufsichtspflicht und Sicherheitsanforderungen werden beachtet. | Den Kindern steht vielfältiges Material unterschiedlicher Bildungsbereiche zur freien Verfügung, das zur Bewegung und zum Forschen, Erproben und Experimentieren anregt. | Christliche Symbole sind in die Raumgestaltung einbezogen. | Die Ausstattung der Räume berücksichtigt gesundheitsschonende Möbel (Stühle, Wickeltisch etc.) für die Mitarbeiter*innen. | Die Materialien sind schadstofffrei. Bei ihrer Anschaffung sind Nachhaltigkeitskriterien zu berücksichtigen. | Lärmschutzmaßnahmen verhindern gesundheitliche Gefährdungen für Kinder und Mitarbeiter*innen. | Das Raumklima der Räume entspricht den Behaglichkeitsansprüchen. Eine gute Luftqualität (Sauerstoff, CO2-Gehalt, Luftfeuchte) ist kontinuierlich gewährleistet. | Den Mitarbeiter*innen stehen Räume zum Rückzug in Pausen und zur Vorbereitung und Teamarbeit zur Verfügung. Für Leitungs- und Verwaltungsaufgaben ist ein Büro entsprechend ausgestattet. | Es stehen Räume zur Verfügung, in denen Elterngespräche ungestört und vertraulich stattfinden können. | . ",
     "url": "/raum.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/raum.html#qualitätsanforderungen"
-  },"269": {
+  },"270": {
     "doc": "7.4. Religionspädagogik",
     "title": "7.5. Religionspädagogik",
     "content": " ",
     "url": "/religion.html#75-religionsp%C3%A4dagogik",
     
     "relUrl": "/religion.html#75-religionspädagogik"
-  },"270": {
+  },"271": {
     "doc": "7.4. Religionspädagogik",
     "title": "Einführung",
     "content": "Religionspädagogik ist keine besondere Pädagogik für bestimmte Lebenssituationen, sondern integraler Teil des Erziehungs-, Bildungs- und Betreuungsauftrags der Kindertageseinrichtung. Kinder haben ein Recht auf Religion. Dabei ist religiöse Bildung ein wichtiger Teil eines umfassenden Bildungsansatzes. Als Teil des evangelischen Profils einer Kindertageseinrichtung ist eine wertebezogene Erziehung und Bildung und eine offene Haltung der Mitarbeiter*innen zu den religiösen Fragen und Vorstellungen der Kinder von besonderer Bedeutung. ",
     "url": "/religion.html#einf%C3%BChrung",
     
     "relUrl": "/religion.html#einführung"
-  },"271": {
+  },"272": {
     "doc": "7.4. Religionspädagogik",
     "title": "Ziele",
     "content": ". | Die religiöse Dimension des (kindlichen) Lebens wird im pädagogischen Alltag der Kindertageseinrichtung und besonders bei Übergängen beachtet. | Kindliche Sinnfragen und Gottesvorstellungen werden geschätzt und finden Raum in der pädagogischen Arbeit. | Die Kinder kennen und erleben biblische Geschichten, religiöse Symbole und Rituale, Feste des Kirchenjahres und die Kirche als sakralen Raum. | Die Kinder erleben eine Atmosphäre der Wertschätzung, Hilfestellung und sensiblen Begleitung durch die Fachkräfte und lernen christliche Wertvorstellungen kennen. | . ",
     "url": "/religion.html#ziele",
     
     "relUrl": "/religion.html#ziele"
-  },"272": {
+  },"273": {
     "doc": "7.4. Religionspädagogik",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Kinder haben die Möglichkeit Religiosität zu erleben indem sie z.B. religiöse Symbole, Geschichten, Feste und Traditionen kennenlernen. | Die pädagogischen Fachkräfte nehmen die Fragen der Kinder nach Sinn, dem „Woher und Wohin“ und nach Gott ernst und unterstützen und begleiten sie auf dem Weg ihrer religiösen Entwicklung. | Die Kinder lernen religiöse Symbole, die Kirche als Raum und kirchliche Traditionen kennen und feiern christliche Feste. | Die Kinder lernen ihre natürliche Umwelt als Teil der Schöpfung Gottes kennen. Sie werden angeregt, sie zu achten und zu erhalten. | Geschichten aus der Bibel werden erzählt, sind in die pädagogische Planung eingebunden und nehmen die Befindlichkeiten bzw. Lebenssituationen der Kinder auf. | Über Bilderbücher und weitere Materialien und Medien haben die Kinder kontinuierlich Zugang zu biblischen und religiösen Inhalten. | Rituale sind zur Strukturierung, Unterstützung und Vergewisserung Teil der pädagogischen Arbeit. Die religiöse Dimension von Ritualen, wie z.B. Singen christlicher Lieder, Beten und Segnen, wird besonders beachtet. | Kinder wissen um die Verschiedenheit von Religionen und kulturellen Traditionen. Sie lernen die in der Kindertageseinrichtung vertretenen Glaubensrichtungen in einer Atmosphäre der Achtung und Wertschätzung kennen. | . ",
     "url": "/religion.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/religion.html#qualitätsanforderungen"
-  },"273": {
+  },"274": {
     "doc": "7.4. Religionspädagogik",
     "title": "7.4. Religionspädagogik",
     "content": " ",
     "url": "/religion.html",
     
     "relUrl": "/religion.html"
-  },"274": {
+  },"275": {
     "doc": "7.13 Sprachbildung und Sprachförderung",
     "title": "7.13. Sprachbildung und Sprachförderung",
     "content": " ",
     "url": "/sprache.html#713-sprachbildung-und-sprachf%C3%B6rderung",
     
     "relUrl": "/sprache.html#713-sprachbildung-und-sprachförderung"
-  },"275": {
+  },"276": {
     "doc": "7.13 Sprachbildung und Sprachförderung",
     "title": "Einführung",
     "content": "Sprache ist ein Medium zur Weltaneignung. Durch sie werden Gedanken und Gefühle zum Ausdruck gebracht, Bedeutungen vermittelt, Erlebnisse verarbeitet, Erfahrungen ausgetauscht, Wünsche und Bedürfnisse geäußert und Handlungen geplant. Die Kommunikationsfähigkeit eines Kindes ermöglicht Kontaktaufnahme, Teilhabe und Mitbestimmung in der Kindertageseinrichtung. Sprachbildung und Sprachförderung sind als Querschnittsaufgabe im pädagogischen Alltag verankert und finden in allen Bildungsbereichen statt. ",
     "url": "/sprache.html#einf%C3%BChrung",
     
     "relUrl": "/sprache.html#einführung"
-  },"276": {
+  },"277": {
     "doc": "7.13 Sprachbildung und Sprachförderung",
     "title": "Ziele",
     "content": ". | Kinder nutzen jede Bildungs- und Lernsituation, um ihre Kommunikationsfähigkeiten und ihre Sprachkompetenzen zu entwickeln. Sie äußern ihre Bedürfnisse in unterschiedlichen Situationen. | Die pädagogischen Fachkräfte sind sich ihrer Funktion als Sprachvorbild bewusst und handeln entsprechend. | Die Maßnahmen zur Sprachbildung und Sprachförderung orientieren sich am individuellen Entwicklungsstand, den Interessen, Bedürfnissen und Fragestellungen des Kindes. Sie berücksichtigen seinen familiären Hintergrund, seine kulturelle und religiöse Herkunft und ggf. Kenntnisse einer nichtdeutschen Erstsprache. | . ",
     "url": "/sprache.html#ziele",
     
     "relUrl": "/sprache.html#ziele"
-  },"277": {
+  },"278": {
     "doc": "7.13 Sprachbildung und Sprachförderung",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Kindertageseinrichtung ist über das regionale Sprachförderkonzept, das der örtliche Träger der Jugendhilfe mit allen anderen Trägern der Kitas entwickelt, informiert und ggf. beteiligt. | Alltagsintegrierte Sprachbildung und Sprachförderung sind in der pädagogischen Konzeption verankert. | Sprachbildung findet grundsätzlich für alle Kinder statt. | Sprachförderung findet als intensivierte und vertiefende Unterstützung im Falle spezifischer Bedarfe statt. | Alle pädagogischen Fachkräfte sind für die Umsetzung der Sprachbildung und Sprachförderung zuständig. | Sie sind sensibel für Sprachanlässe, die sich aus unterschiedlichen Situationen ergeben. | Sie regen die Kommunikation an und setzen Sprachanreize. | Sie sind in der Lage ihr sprachliches Handeln zu reflektieren. | Sie überprüfen, ob Kinder eine zusätzliche Unterstützung in ihrer Sprachentwicklung benötigen. | Die pädagogischen Fachkräfte sind sich bewusst, dass eine größtmögliche Partizipation (Beteiligung, Mitbestimmung und Mitentscheidung) die Sprachkompetenz eines Kindes befördert und sein Selbstvertrauen stärkt. | Die Wertschätzung der sprachlichen und kulturellen Vielfalt ist Voraussetzung für die Entwicklung eines vertrauensvollen, ermutigenden Klimas, in dem Deutsch als Zweitsprache gut erworben werden kann. | Das Fachwissen zum Thema wird regelmäßig aktualisiert und erweitert. | Die Kindertageseinrichtung nutzt ein geeignetes Verfahren zur Beobachtungs- und Entwicklungsdokumentation inklusive dem Aspekt der Sprachentwicklung (siehe 7.3. Beobachtung und Dokumentation). | Sie dient der Feststellung einer ausreichenden Sprachkompetenz oder der Feststellung eines besonderen Sprachförderbedarfs der Kinder. Ggf. werden spezielle Feststellungsverfahren angewandt. | Bei einem Verdacht auf eine Sprachentwicklungsstörung verweist die Kita die Eltern an andere Professionen (Ärzte, Logopäden, …) und weist auf eine entsprechende diagnostische Abklärung und ggf. Einleitung einer entsprechenden sprachtherapeutischen Maßnahme hin. | Mit den Eltern der Kinder, die einen besonderen Sprachförderbedarf haben, werden im letzten Jahr vor der Einschulung drei Entwicklungsgespräche geführt. | Die Entwicklungsdokumentation kann den Grundschulen mit Zustimmung der Eltern zur Verfügung gestellt werden. | . ",
     "url": "/sprache.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/sprache.html#qualitätsanforderungen"
-  },"278": {
+  },"279": {
     "doc": "7.13 Sprachbildung und Sprachförderung",
     "title": "7.13 Sprachbildung und Sprachförderung",
     "content": " ",
     "url": "/sprache.html",
     
     "relUrl": "/sprache.html"
-  },"279": {
+  },"280": {
     "doc": "7.12. Übergänge",
     "title": "7.12. Übergänge",
     "content": " ",
     "url": "/uebergang.html",
     
     "relUrl": "/uebergang.html"
-  },"280": {
+  },"281": {
     "doc": "7.12. Übergänge",
     "title": "Einführung",
     "content": "Das Leben ist von Übergängen geprägt. Es gehört zu den Herausforderungen des Alltags, sich immer wieder von vertrauten Situationen zu verabschieden und auf neue zuzugehen. Die Bewältigung von Übergängen muss unterstützt und begleitet werden. Eine Grundlage ist die Berücksichtigung der individuellen Entwicklungsvoraussetzungen und Lebenslagen des Kindes. Die Zusammenarbeit zwischen Elternhaus und Kindertageseinrichtung sowie anderen Kooperationspartnern und Institutionen erleichtert dem Kind und seiner Familie die Orientierung in Übergangssituationen. Neue Anforderungen durch Unbekanntes bieten dem Kind die Chance, seine Kompetenzen zu erweitern. Gelungene Übergänge stärken das Vertrauen des Kindes in die eigenen Kräfte und damit seine Resilienz. ",
     "url": "/uebergang.html#einf%C3%BChrung",
     
     "relUrl": "/uebergang.html#einführung"
-  },"281": {
+  },"282": {
     "doc": "7.12. Übergänge",
     "title": "Ziele",
     "content": ". | Die Mitarbeiter*innen sind sich der verschiedenen Übergänge im Alltag einer Tageseinrichtung für Kinder bewusst. | Die Mitarbeiter*innen gestalten die Austausch- und Koordinationsprozesse zwischen Kind, Eltern und Kooperationspartnern, um die Entwicklung eines Vertrauensverhältnisses zu fördern. | Übergänge in andere Gruppen und Institutionen sind gemeinsam mit den Kooperationspartnern und den Familien gestaltet. | Das Kind ist in der Lage, Strategien für den Umgang mit neuen Lebens- und Alltagssituationen zu entwickeln. | . ",
     "url": "/uebergang.html#ziele",
     
     "relUrl": "/uebergang.html#ziele"
-  },"282": {
+  },"283": {
     "doc": "7.12. Übergänge",
     "title": "Qualitätsanforderungen",
     "content": ". | Mitarbeiter*innen gestalten Übergänge orientiert an den Bedürfnissen und dem Entwicklungsstand des Kindes. Sie unterstützen das Kind, Übergänge im eigenen Tempo zu bewältigen. | Sie reflektieren Übergangssituationen mit dem Kind und seinen Eltern. | Alltagsstrukturen beinhalten Wiederholungen und Rituale, die den Kindern die Orientierung in Übergangssituationen erleichtern. | Im Team ist geklärt, wie der Übergang von der Krippe in den Kindergarten gestaltet wird. | Bei einer Beendigung des Betreuungsvertrages z.B. aufgrund eines Wohnortwechsels wird das Kind mit seiner Familie angemessen verabschiedet. Der Abschied wird selbstverständlich mit den verbleibenden Kindern thematisiert. | Die pädagogischen Fachkräfte unterstützen und begleiten den Austausch mit Eltern, Kooperationspartnern und anderen Institutionen. | Grundschule und Kindertageseinrichtung haben gemeinsam schriftlich dargelegt, wie der Übergang zur Schule gestaltet wird. | Die Entwicklung der Kinder wird im Hinblick auf den bevorstehenden Übergang zur Schule beobachtet (vgl. 7.3. Beobachtung und Dokumentation). | Der Austausch mit Eltern und Grundschule ist geklärt. | In Kooperation zwischen Grundschule und Kindertageseinrichtung werden Begegnungen zwischen den Fachkräften (Lehrkräften und pädagogischen Fachkräften) sowie zwischen den Kindern in der Tageseinrichtung und in der Schule initiiert. | . ",
     "url": "/uebergang.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/uebergang.html#qualitätsanforderungen"
-  },"283": {
+  },"284": {
     "doc": "5. Verantwortung und Zusammenarbeit",
     "title": "Verantwortung und Zusammenarbeit",
     "content": "Im Sinne der DIN EN ISO 9001 muss die oberste Leitung sicherstellen, dass die Verantwortung und Befugnisse innerhalb der Organisation festgelegt und bekannt gemacht werden. Dabei wird zwischen der strategischen und operativen Verantwortung unterschieden. In evangelischen Kindertageseinrichtungen hat die oberste Leitung der Träger (vgl. 4.1.). Die K.I.T.A. ev.-ref. Kindertagesstätten gGmbH überträgt als Träger der Kita Amselstrolche Aufgaben an die pädagogische Leitung/Geschäftsführung und die betriebswirtschaftliche Leitung/Geschäftsführung. Die Aufgabenverteilung, Verantwortungsbereiche und Kompetenzen sind entsprechend vertraglich geregelt. ",
     "url": "/verantwortung-zusammenarbeit.html#verantwortung-und-zusammenarbeit",
     
     "relUrl": "/verantwortung-zusammenarbeit.html#verantwortung-und-zusammenarbeit"
-  },"284": {
+  },"285": {
     "doc": "5. Verantwortung und Zusammenarbeit",
     "title": "5. Verantwortung und Zusammenarbeit",
     "content": " ",
     "url": "/verantwortung-zusammenarbeit.html",
     
     "relUrl": "/verantwortung-zusammenarbeit.html"
-  },"285": {
+  },"286": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "4.3. Übergeordnete Vorgaben",
     "content": "Für den Betrieb einer Einrichtung in kirchlicher Trägerschaft gibt es allgemein gültige gesetzliche Vorgaben, wie z.B. das Grundgesetz (GG), das bürgerliche Gesetzbuch (BGB), das Allgemeine Gleichstellungsgesetz (AGG), die Datenschutzgrundverordnung, das Bundesreisekostengesetz. Darüber hinaus werden von der Landesregierung Landesgesetze und Förderrichtlinien erlassen. Kirchliche Vorgaben werden von den Landeskirchen erlassen oder bundesweit von der Evangelische Kirche in Deutschland (EKD) beschlossen und von den Landeskirchen in eigene Vorgaben umgesetzt. Für ev. Kindertageseinrichtungen sind insbesondere folgende Vorgaben relevant: . ",
     "url": "/vorgaben.html",
     
     "relUrl": "/vorgaben.html"
-  },"286": {
+  },"287": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "International",
     "content": ". | das Übereinkommen über die Rechte des Kindes (UN-Kinderrechtskonvention) | die UN-Konvention über die Rechte behinderter Menschen (Behindertenrechtskonvention - BRK) | . ",
     "url": "/vorgaben.html#international",
     
     "relUrl": "/vorgaben.html#international"
-  },"287": {
+  },"288": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "Bundesweit",
     "content": ". | das Sozialgesetzbuch VIII (KJHG), insbesondere § 8a, § 8b und § 22 sowie das Kinderförderungsgesetz (KiföG) und das Bundeskinderschutzgesetz (BKiSchG) | das die gesetzlichen Vorgaben SGB IX sowie SGB XII für die gemeinsame Bildung und Erziehung von Kindern mit Behinderung und von Behinderung bedrohten Kindern (Integration) inklusive des Bundesteilhabegesetzes (BTHG) | . ",
     "url": "/vorgaben.html#bundesweit",
     
     "relUrl": "/vorgaben.html#bundesweit"
-  },"288": {
+  },"289": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "Landesweit",
     "content": ". | das Gesetz über Tageseinrichtungen für Kinder in Niedersachsen (NKiTaG) mit den Durchführungsverordnungen (DVO) | der Orientierungsplan für Bildung und Erziehung im Elementarbereich niedersächsischer Tageseinrichtungen für Kinder als Grundlage für die Umsetzung des Bildungsauftrags sowie die darin enthaltenen Handlungsempfehlungen für die Arbeit mit Kindern unter drei Jahren und für die Sprachbildung und Sprachförderung | . ",
     "url": "/vorgaben.html#landesweit",
     
     "relUrl": "/vorgaben.html#landesweit"
-  },"289": {
+  },"290": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "Landeskirchenweit",
     "content": ". | „Das Kind im Mittelpunkt – Grundsätze für die Arbeit in evangelischen Kindertagesstätten“ (Kirchliches Amtsblatt Hannover Nr. 4/2010, II. Verfügung Nr. 36) als Grundlage für die ev. Kindertageseinrichtungen im Gebiet der Evangelisch-lutherischen Landeskirche Hannovers??? Ilse Viet befragen | . ",
     "url": "/vorgaben.html#landeskirchenweit",
     
     "relUrl": "/vorgaben.html#landeskirchenweit"
-  },"290": {
+  },"291": {
     "doc": "4.3. Übergeordnete Vorgaben",
     "title": "Weitere Grundlagen sind:",
     "content": ". | Bundesrahmenhandbuch (2015) der Bundesvereinigung Evangelischer Tageseinrichtungen für Kinder e.V. (BETA) und des Diakonischen Instituts für Qualitätsentwicklung im Diakonischen Werk der EKD e.V. als Grundlage für die Qualitätsentwicklung und das Qualitätsmanagement. | . ",
     "url": "/vorgaben.html#weitere-grundlagen-sind",
     
     "relUrl": "/vorgaben.html#weitere-grundlagen-sind"
-  },"291": {
+  },"292": {
     "doc": "7.9. Zeitliche Gestaltung",
     "title": "7.9. Zeitliche Gestaltung",
     "content": " ",
     "url": "/zeit.html",
     
     "relUrl": "/zeit.html"
-  },"292": {
+  },"293": {
     "doc": "7.9. Zeitliche Gestaltung",
     "title": "Einführung",
     "content": "Eine wesentliche Voraussetzung für den Lern- und Bildungsprozess sowie die Entwicklung von Kindern ist eine gut abgestimmte zeitliche Gestaltung, die sich an den kindlichen Bedürfnissen orientiert. Die zeitliche Planung von Tagesabläufen, von pädagogischen/religionspädagogischen Angeboten und von Aktivitäten in der Woche, im Monat und übers Jahr berücksichtigt den individuellen Entwicklungsstand, das Alter sowie die kulturelle und religiöse Vielfalt der Kinder und ihrer Familien. Sie gewährleistet, dass sich die Umsetzung der von der Einrichtung angebotenen Leistungen maßgeblich an den Kindern und ihren individuellen Bedürfnissen orientiert. ",
     "url": "/zeit.html#einf%C3%BChrung",
     
     "relUrl": "/zeit.html#einführung"
-  },"293": {
+  },"294": {
     "doc": "7.9. Zeitliche Gestaltung",
     "title": "Ziele",
     "content": ". | Die zeitliche Gestaltung erlaubt wechselnde Phasen zwischen Ruhe und Bewegung, Begegnung und Rückzug sowie Aktivität und Besinnung. | Sie gibt den Kindern Sicherheit und Orientierung. | Die Kinder sind in der Lage, sich entwicklungsspezifisch ihre Zeit selbst einzuteilen. | Sie erleben Rituale, Feste, Feiern und Bräuche als sinnstiftende und strukturierende Ereignisse, die immer wiederkehren. | Die individuellen Bedürfnisse aller Beteiligten werden bei der zeitlichen Gestaltung weitestgehend berücksichtigt. | Die zeitliche Strukturierung des Alltags gewährleistet, dass die Fachkräfte ihre pädagogischen Aufgaben inklusive der dafür notwendigen Vor- und Nachbereitungen erfüllen können. | . ",
     "url": "/zeit.html#ziele",
     
     "relUrl": "/zeit.html#ziele"
-  },"294": {
+  },"295": {
     "doc": "7.9. Zeitliche Gestaltung",
     "title": "Qualitätsanforderungen",
     "content": ". | Die Kinder sind ihrem Entwicklungsstand entsprechend an der zeitlichen Gestaltung beteiligt. | Sie haben täglich Gelegenheit, sich ihre Zeit selbst einzuteilen und zu bestimmen, mit wem sie wo spielen möchten. | Es ist gewährleistet, dass sich Phasen selbstbestimmten Handelns mit Phasen pädagogischer Steuerung durch die Fachkräfte im Tagesablauf abwechseln. | Die Kinder erkennen die Strukturen und Abläufe dieser Phasen. | In der Planung sind Feste, Feiern und Rituale des Kirchenjahres, jahreszeitlich bedingte Ereignisse und Bräuche sowie die Geburtstage der Kinder berücksichtigt. | Die Planung berücksichtigt ausreichend Zeit für die Umsetzung aller konzeptionell verankerten Leistungen (z. B. Beobachtungen, Eingewöhnung, Entwicklungsgespräche). | . ",
     "url": "/zeit.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/zeit.html#qualitätsanforderungen"
-  },"295": {
+  },"296": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "4.5. Übergeordnete Qualitätsziele",
     "content": " ",
     "url": "/%C3%BCqz.html#45-%C3%BCbergeordnete-qualit%C3%A4tsziele",
     
     "relUrl": "/%C3%BCqz.html#45-übergeordnete-qualitätsziele"
-  },"296": {
+  },"297": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "Einführung",
     "content": "Die übergeordneten Qualitätsziele folgen dem Leitbild und legen das angestrebte Qualitätsniveau fest. Sie dienen der Umsetzung, der systematischen Überprüfung und der erforderlichen Anpassung. ",
     "url": "/%C3%BCqz.html#einf%C3%BChrung",
     
     "relUrl": "/%C3%BCqz.html#einführung"
-  },"297": {
+  },"298": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "Ziele",
     "content": ". | Die übergeordneten Qualitätsziele sind beschrieben und entsprechende Schlüsselprozesse zu deren Umsetzung abgeleitet. | Der Träger, die Leitung und die Mitarbeiter*innen kennen die Qualitätsziele und stellen deren Erreichung sicher. | Die Erreichung der Qualitätsziele wird nachgewiesen und in der jährlichen Konferenz zur Managementbewertung überprüft. | . ",
     "url": "/%C3%BCqz.html#ziele",
     
     "relUrl": "/%C3%BCqz.html#ziele"
-  },"298": {
+  },"299": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "Qualitätsanforderungen",
     "content": ". | Die übergeordneten Qualitätsziele umfassen alle relevanten Arbeitsbereiche der Kindertageseinrichtung, sind maßgeblich und realistisch. | Die übergeordneten Qualitätsziele sind so formuliert, dass sie überprüfbar sind und ihre Wirksamkeit nachweisbar ist. | Die übergeordneten Qualitätsziele werden mit den (pädagogischen) Mitarbeiter*innen gemeinsam entwickelt. | Die übergeordneten Qualitätsziele werden jährlich überprüft und ggf. weiterentwickelt. Sie sind im Rahmen der Managementbewertung Grundlage für die strategische Planung der Kindertageseinrichtung. | . ",
     "url": "/%C3%BCqz.html#qualit%C3%A4tsanforderungen",
     
     "relUrl": "/%C3%BCqz.html#qualitätsanforderungen"
-  },"299": {
+  },"300": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "Übergeordnete Qualitätsziele",
     "content": "Bildung: . | Die anregenden Bildungsangebote und – Impulse sind so gestaltet, dass sie die Umsetzung des Niedersächsischen Orientierungsplans garantieren. | In Beziehung mit pädagogischen Fachkräften und anderen Kindern lernt das Kind, und ist in seinem Forscherdrang und seiner Selbstwirksamkeit angeregt. | Eine sichere Bindung ist durch aktive Beziehungsgestaltung der pädagogischen Fachkräfte geschaffen und unterstützt Bildungsprozesse. | Eine anregende, flexible und an den Ressourcen der Kinder orientierte Lernumgebung zur individuellen Weiterentwicklung ist gegeben und wird durch den maßvollen Einsatz von digitalen Endgeräten ergänzt. | . Erziehung: . | Partizipation ist als grundlegendes Prinzip und gelebte Kultur im Alltag der gesamten Einrichtung umgesetzt. | Die Auseinandersetzung mit verschiedenen Heterogenitätsdimensionen sichert die Teilhabe aller Kinder und ihren Familien innerhalb der Einrichtung und befördert eine Chancengerechtigkeit. | Die Orientierung an Vorbildern ermöglicht den Kindern den Erwerb angemessener Verhaltensweisen. | Die Gestaltung des Alltags ist fachlich begründet und orientiert sich an den individuellen Bedürfnissen der Kinder. | . Betreuung: . | Die Eingewöhnung orientiert sich an den Bedürfnissen jedes einzelnen Kindes. Dabei werden die Grundsätze des Berliner Modells berücksichtigt. | Unter Berücksichtigung der kindlichen Bedürfnisse und unter Einbeziehung der Sorgeberechtigten, werden Übergänge pädagogisch begleitet und gestaltet. | Verlässliche Strukturen und Bezugspersonen bieten Orientierung und Sicherheit für alle Prozessbeteiligten. | . Eltern: . | Durch Kommunikation und Dokumentation der pädagogischen Arbeit und der Bildungsinhalte ist Transparenz über Inhalte unserer Arbeit geschaffen. | Die Kita ist ein Begegnungsort für die Familien und Mitwirkung ist gewährleistet. | Die Eltern sind in der Erziehung unterstützt und beraten im Hinblick auf die Bildung, Erziehung und Entwicklung der Kinder. | . Sicherheit: . | Träger und Leitung gewährleisten die Erarbeitung, Implementierung und Weiterentwicklung eines Kinderschutzkonzeptes. | Alle Mitarbeitenden kennen das Schutzkonzept und die entsprechenden gesetzlichen Grundlagen und setzen diese um. | Regelmäßige Schulungen in Hygiene- Arbeits- und Brandschutz werden von qualifizierten Fachkräften durchgeführt und garantieren einen sicheren Kitaalltag | Die Mitarbeitenden agieren professionell um Schäden zu vermeiden. | Mitarbeitende sind im Datenschutz geschult und setzen geltende Richtlinien um. | Wartungen und Kontrollen technischer Geräte und Anlagen werden regelmäßig durchgeführt und auf Sicherheit geprüft. | . ",
     "url": "/%C3%BCqz.html#%C3%BCbergeordnete-qualit%C3%A4tsziele",
     
     "relUrl": "/%C3%BCqz.html#übergeordnete-qualitätsziele"
-  },"300": {
+  },"301": {
     "doc": "4.5. Übergordnete Qualitätsziele",
     "title": "4.5. Übergordnete Qualitätsziele",
     "content": " ",
