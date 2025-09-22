@@ -52,3 +52,10 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# URL des Templates (für interne Links)
+url: https://just-the-docs.github.io
+
+# Externe Links in der Kopfzeile
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template

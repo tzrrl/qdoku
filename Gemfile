@@ -1,15 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# Dieses Gem ist Jekyll selbst.
-gem "jekyll"
+gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
+# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-# Das ist das Theme, das du verwenden möchtest.
-gem "just-the-docs"
-
-# Dies ist ein wichtiges Hilfsprogramm, das die Ausführung von Jekyll
-# und seinen Abhängigkeiten steuert.
-gem "bundler"
-
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
+gem "just-the-docs", "0.10.1" # pinned to the current release
+# gem "just-the-docs"        # always download the latest release
