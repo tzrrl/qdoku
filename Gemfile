@@ -1,7 +1,15 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+# Das ist das Theme, das du verwenden möchtest.
+gem "jekyll"
+gem "just-the-docs", "~> 0.10"
 
-gem "just-the-docs", "0.10.1" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+# Diese Plugins benötigt GitHub Pages.
+# Beachte: Dein Build-Log hat gezeigt, dass jekyll-feed fehlt.
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+
+# Dies ist ein wichtiges Hilfsprogramm, das die Ausführung von Jekyll
+# und seinen Abhängigkeiten steuert.
+gem "bundler"
