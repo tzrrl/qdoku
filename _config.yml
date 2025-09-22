@@ -1,0 +1,54 @@
+# Der Titel deiner Website, der in der Kopfzeile angezeigt wird.
+title: QDoku
+
+# Eine Kurzbeschreibung deiner Website.
+description: QDoku - Kindertagesstätte Amselstrolche
+
+# Das Theme wird jetzt direkt über den 'theme'-Schlüssel geladen.
+theme: "just-the-docs"
+
+# Hier werden die benötigten Plugins hinzugefügt.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Konfiguration der Navigation und des Designs
+color_scheme: light
+search_enabled: true
+
+# Sprach- und Lokalisierungseinstellungen
+lang: de-DE
+markdown: kramdown
+
+# === ALLE THEME-SPEZIFISCHEN EINSTELLUNGEN IN EINEM BLOCK ===
+just_the_docs:
+  # Konfiguration für die Navigation
+  nav:
+    toc_label: "Inhaltsverzeichnis"
+    toc:
+      title: "Inhaltsverzeichnis"
+  
+  # Konfiguration für die Suchleiste
+  search:
+    placeholder: "Suche..."
+
+  # Mermaid aktivieren
+  mermaid:
+    enabled: true
+    version: "10.1.0"
+
+
+# Einstellungen für die Feed- und Sitemap-Plugins
+feed:
+  path: /feed.xml
+
+# Einstellungen, um unnötige Dateien vom Build-Prozess auszuschließen
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
