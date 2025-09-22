@@ -55,6 +55,7 @@ exclude:
 
 # URL des Templates (für interne Links)
 url: https://just-the-docs.github.io
+baseurl: "/qdoku"
 
 # Externe Links in der Kopfzeile
 aux_links:
