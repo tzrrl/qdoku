@@ -1,1 +1,1 @@
-Sitemap: https://just-the-docs.github.io/qdoku/sitemap.xml
+Sitemap: https://tzrrl.github.io/qdoku/sitemap.xml

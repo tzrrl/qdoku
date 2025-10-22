@@ -54,7 +54,7 @@ exclude:
   - vendor/ruby/
 
 # URL des Templates (für interne Links)
-url: https://just-the-docs.github.io
+url: https://tzrrl.github.io
 baseurl: "/qdoku"
 
 # Externe Links in der Kopfzeile
