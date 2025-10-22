@@ -1,0 +1,14 @@
+# Dies ist eine Overwrite-Konfigurationsdatei für den Jekyll-Build.
+# Sie wird verwendet, um die Pfade für die Offline-Nutzung zu korrigieren.
+
+# URL und BASEURL MÜSSEN auf leere Strings gesetzt werden,
+# damit alle internen Links und Asset-Pfade (CSS, JS, search-data.json)
+# relativ zur aktuellen Datei funktionieren, wenn die Seite direkt
+# im Browser über das Dateisystem geöffnet wird (z.B. file:///...).
+
+url: ""
+baseurl: ""
+
+# Du kannst auch ausschließen, dass Jekyll einen Server startet,
+# falls diese Datei versehentlich bei einem 'jekyll serve' verwendet wird.
+livereload: false
