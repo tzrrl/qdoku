@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Das ist das Theme, das du verwenden möchtest.
 gem "jekyll"
-gem "just-the-docs", "~> 0.10"
+gem "just-the-docs", "~> 0.11"
 
 # Diese Plugins benötigt GitHub Pages.
 # Beachte: Dein Build-Log hat gezeigt, dass jekyll-feed fehlt.
